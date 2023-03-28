@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @EmmanuelKey! I'm an incoming freshman studying Computer Science at The Ohio State University!
+- 👋 Hi, I’m @EmmanuelKey! I'm a rising Junior studying Computer Science at The Ohio State University!
 - 👀 I’m interested in Anime, Sneakers, The NBA(Go Bulls!), Robotics, and Artificial Intelligence
 - 📫 How to reach me:
 Linkedin- linkedin.com/in/emmanuel-key-bb3698201
