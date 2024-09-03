@@ -1,8 +1,8 @@
 
-- 👋 Hi, I’m @EmmanuelKey! I'm a rising Junior studying Computer Science at The Ohio State University!
+- 👋 Hi, I’m @EmmanuelKey! I'm a Senior studying Computer Science at The Ohio State University!
 - 👀 I’m interested in Anime, Sneakers, The NBA(Go Bulls!), Robotics, and Artificial Intelligence
 - 📫 How to reach me:
-Linkedin- linkedin.com/in/emmanuel-key-bb3698201
+Linkedin- https://www.linkedin.com/in/emmanuelkey/
 email - ekey2021@gmail.com
 <!---
 EmmanuelKey/EmmanuelKey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
